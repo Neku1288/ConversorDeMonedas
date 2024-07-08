@@ -2,7 +2,8 @@
 Conversor de monedas con API para Alura Challenge
 
 
-Este programa es modificacion y complementación de un conversor de monedas con bases tomadas de un conversor ya creao de la WEB, con el objetivo de mostrar los diferentes temas vistos en clase:
+ESte programa tiene como objetivo el demostrar los temas principales vistos en clase:
+
 
 -API
 
